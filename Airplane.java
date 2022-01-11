@@ -12,7 +12,7 @@ public class Airplane {
     /**
     * Defining and setting speed.
     */
-    private int speed = 0;
+    public int speed = 0;
 
     // getters
     /**
